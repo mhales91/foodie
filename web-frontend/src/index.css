@@ -1,0 +1,94 @@
+/* src/index.css */
+
+/* CSS Variables */
+:root {
+  --main-bg: #f9f5e7;
+}
+
+/* Reset & typography */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #ffffff;
+  color: #212529;
+  overflow-x: hidden;
+}
+
+/* App container */
+.App {
+  width: 90%;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+  min-height: calc(100vh - 4rem);
+  background: var(--main-bg);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Mobile override (phones) */
+@media (max-width: 600px) {
+  .App {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    min-height: 100vh !important;
+  }
+}
+
+/* Headings */
+h2,
+h3 {
+  margin-bottom: 1rem;
+  color: #343a40;
+}
+
+/* Forms */
+form > div {
+  margin-bottom: 1rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"],
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+/* Buttons */
+button {
+  background: #007bff;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background: #0056b3;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.25rem;
+}
+ul li {
+  margin-bottom: 0.5rem;
+}

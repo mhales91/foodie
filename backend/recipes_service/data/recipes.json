@@ -1,0 +1,741 @@
+{
+  "recipes": [
+    {
+      "title": "Slow cooker beef satay",
+      "subtitle": "An easy family friendly meal",
+      "image_url": "https://recipes-nz.b-cdn.net/581f6566648f90f59330c713ccfb8ad7a7a414cd-1904x1280.jpg?auto=format&fit=max&q=75&w=1904",
+      "servings": "6 - 8",
+      "prep_time": "10 mins",
+      "cook_time": "4 hrs 30 mins",
+      "description": "Packed with tender New Zealand beef, vegetables and a rich creamy peanut sauce, this meal will be a new weekly dish in your household. It is just 10 mins prep, then you let the slow cooker do the work! It's perfect for meal prep or feeding a crowd.",
+      "ingredients": [
+        "1kg Quality Mark chuck steaks",
+        "2 Tbsp cornflour",
+        "1 onion",
+        "2 capsicum",
+        "2 carrots",
+        "250g green beans",
+        "400g can coconut cream",
+        "1 Tbsp crushed garlic",
+        "100g peanut butter",
+        "1 Tbsp ginger paste",
+        "3 Tbsp salt-reduced soy sauce",
+        "2 Tbsp curry powder",
+        "2 Tbsp brown sugar",
+        "½ cup water",
+        "white rice",
+        "fresh coriander",
+        "broccoli"
+      ],
+      "instructions": [
+        "In the base of a slow cooker, combine all of the marinade ingredients."
+      ],
+      "nutrition": {
+        "calories": "Energy1452kJ (347 kcal)",
+        "proteinContent": "Protein30.9g",
+        "saturatedFatContent": "Saturated Fat6.0g",
+        "sodiumContent": "Sodium423mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/slow-cooker-beef-satay/",
+      "tags": ["beef", "slow cooker", "family-friendly", "meal prep"]
+    },
+    {
+      "title": "Creamy lamb chops with kale and broccolini salad",
+      "subtitle": "Easy lamb chops for the family",
+      "image_url": "https://recipes-nz.b-cdn.net/0ef16ad0161dd6d6b1d02feea3826483c3255507-5440x3488.jpg?auto=format&fit=max&q=75&w=5440",
+      "servings": "4 - 6",
+      "prep_time": "15 mins",
+      "cook_time": "25 mins",
+      "description": "This creamy mustard lamb chop recipe is a proper family favourite – simple to pull together and packed with flavour. You’ll pan-fry tender lamb chops, simmer them in a garlicky mustard cream sauce, and serve them with buttery mashed potatoes and a crunchy kale and broccolini salad tossed in a zesty lemon dressing.",
+      "ingredients": [
+        "400g potatoes",
+        "8 Quality Mark lamb loin chops",
+        "4 garlic cloves",
+        "3 sprigs fresh thyme",
+        "½ cup reduced-salt beef stock",
+        "¼ cup cream",
+        "¼ cup wholegrain mustard",
+        "300g broccolini",
+        "175g kale, fresh, raw",
+        "1 garlic clove",
+        "1 lemon",
+        "2 Tbsp olive oil",
+        "2 Tbsp red wine vinegar",
+        "1 Tbsp honey",
+        "2 Tbsp walnuts"
+      ],
+      "instructions": [
+        "Get your potatoes on to boil and once soft, drain and mash. Set aside for later."
+      ],
+      "nutrition": {
+        "calories": "Energy2404kJ (575 kcal)",
+        "proteinContent": "Protein33.9g",
+        "saturatedFatContent": "Saturated Fat10.0g",
+        "sodiumContent": "Sodium161mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/creamy-lamb-chops-with-kale-and-broccolini-salad/",
+      "tags": ["lamb", "quick", "family-friendly", "one-pan"]
+    },
+    {
+      "title": "Lamb, beetroot and feta cheese meatloaf",
+      "subtitle": "Easy air fryer meatloaf for a midweek dinner",
+      "image_url": "https://recipes-nz.b-cdn.net/852129dedb60e5e66ea81736a5b1c1b00593c08a-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4",
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "description": "This lamb and beetroot meatloaf is a delicious twist on a classic, combining lamb mince, sweet beetroot, and creamy feta for a rich and juicy dish.",
+      "ingredients": [
+        "500g Quality Mark lamb mince",
+        "½ onion",
+        "2 garlic cloves",
+        "¼ cup milk",
+        "½ cup breadcrumbs",
+        "2 Tbsp beetroot chutney",
+        "100g feta cheese",
+        "3 tsp dried oregano",
+        "1 tsp ground cumin",
+        "1 egg",
+        "1 Tbsp parsley",
+        "½ cucumber",
+        "5-6 radishes",
+        "½ red onion",
+        "¼ cup parsley",
+        "¼ cup fresh mint",
+        "salt and freshly ground black pepper",
+        "tzatziki sauce"
+      ],
+      "instructions": [
+        "Preheat your air fryer or oven to 190 degrees."
+      ],
+      "nutrition": {
+        "calories": "Energy1802kJ (431 kcal)",
+        "proteinContent": "Protein35.6g",
+        "saturatedFatContent": "Saturated Fat10.0g",
+        "sodiumContent": "Sodium663mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/lamb-beetroot-and-feta-cheese-meatloaf/",
+      "tags": ["lamb", "air fryer", "Mediterranean", "meal prep"]
+    },
+    {
+      "title": "Beef meatball stroganoff",
+      "subtitle": "Tender meatballs in a classic creamy mushroom gravy",
+      "image_url": "https://recipes-nz.b-cdn.net/8ff6dcc6f58bf1ed75c9fcb922224f831fab2e2d-1920x1080.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "20 mins",
+      "cook_time": "10 mins",
+      "description": "Like spaghetti and meatballs but better, this beef meatball stroganoff will become a firm family favourite in no time.",
+      "ingredients": [
+        "500g Quality Mark beef mince",
+        "½ onion",
+        "½ courgette",
+        "½ cup breadcrumbs",
+        "1 large egg",
+        "¼ cup milk",
+        "2 Tbsp fresh thyme",
+        "salt and pepper",
+        "1 Tbsp olive oil",
+        "250g button mushrooms",
+        "1 Tbsp plain flour",
+        "2 tsp wholegrain mustard",
+        "2 tsp smoked paprika",
+        "1 Tbsp tomato puree",
+        "1 cup beef stock",
+        "large handful baby spinach leaves",
+        "125g sour cream"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C and line a baking tray or sheet with baking paper."
+      ],
+      "nutrition": {
+        "calories": "Energy1073kJ (256 kcal)",
+        "proteinContent": "Protein23.7g",
+        "saturatedFatContent": "Saturated Fat5.4g",
+        "sodiumContent": "Sodium319mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/beef-meatball-stroganoff/",
+      "tags": ["beef", "under 30 mins", "family-friendly", "one-pot"]
+    },
+    {
+      "title": "Sri Lankan lamb filo parcels",
+      "subtitle": "The ultimate spiced lamb mince parcels",
+      "image_url": "https://recipes-nz.b-cdn.net/36c44780d8877456afb1679610712e9060447cc2-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "30 mins",
+      "cook_time": "20 mins",
+      "description": "Transform lamb mince into little parcels that everyone will love. True comfort food, they're wrapped in flaky filo pastry and baked to perfection.",
+      "ingredients": [
+        "500g Quality Mark lamb mince",
+        "3 Tbsp olive oil",
+        "2 medium potatoes",
+        "1 onion",
+        "½ courgette",
+        "4 garlic cloves",
+        "4 tsp Sri Lankan spice mix",
+        "2 tsp chicken stock powder",
+        "2 tsp honey",
+        "handful baby spinach leaves",
+        "to taste salt and pepper",
+        "large packet filo pastry",
+        "1 ½ tsp coriander seeds",
+        "¼ tsp fenugreek",
+        "1 ¼ tsp cumin seeds",
+        "⅓ tsp fennel seeds",
+        "⅓ tsp cardamom seeds",
+        "¼ tsp ground cloves",
+        "¼ tsp black mustard seeds",
+        "pinch cayenne pepper"
+      ],
+      "instructions": [
+        "Preheat your oven to 180°C."
+      ],
+      "nutrition": {
+        "calories": "Energy1557kJ (372 kcal)",
+        "proteinContent": "Protein21.5g",
+        "saturatedFatContent": "Saturated Fat5.8g",
+        "sodiumContent": "Sodium282mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/sri-lankan-lamb-filo-parcels/",
+      "tags": ["lamb", "baked", "spiced", "crowd-pleaser"]
+    },
+    {
+      "title": "Simple lamb koftas",
+      "subtitle": "Easy and quick dinner that the family will love",
+      "image_url": "https://recipes-nz.b-cdn.net/089b1a0c2f93926e9444057586ab590bc731474c-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "15 mins",
+      "cook_time": "12 mins",
+      "description": "These lamb mince koftas are a Middle Eastern-inspired weeknight dinner for the family. Full of herbs and warming spices, they’re easy to shape and quick to cook.",
+      "ingredients": [
+        "500g Quality Mark lamb mince",
+        "1 cup breadcrumbs",
+        "2 eggs",
+        "2 Tbsp fresh thyme",
+        "salt and pepper",
+        "2 tsp paprika",
+        "1 tsp garlic powder",
+        "½ tsp ground turmeric",
+        "1 tsp ground coriander",
+        "½ tsp ground allspice",
+        "plain unsweetened yoghurt",
+        "chopped fresh parsley"
+      ],
+      "instructions": [
+        "In a large bowl, combine all the kofta ingredients and mix well."
+      ],
+      "nutrition": {
+        "calories": "Energy1057kJ (253 kcal)",
+        "proteinContent": "Protein21.5g",
+        "saturatedFatContent": "Saturated Fat4.7g",
+        "sodiumContent": "Sodium267mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/simple-lamb-koftas/",
+      "tags": ["lamb", "quick", "Middle Eastern", "family-friendly"]
+    },
+    {
+      "title": "Guinness lamb shanks",
+      "subtitle": "The ultimate cosy dinner",
+      "image_url": "https://recipes-nz.b-cdn.net/77b760779bad2bb9660d385d30a95ee1c247bd04-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "20 mins",
+      "cook_time": "2 hrs 30 mins",
+      "description": "Slow-cooked lamb shank in Guinness gives this dish wonderful depth of flavour and melts in your mouth.",
+      "ingredients": [
+        "2 onions",
+        "2 carrots",
+        "2 sticks celery",
+        "4 sprigs fresh thyme",
+        "2 tsp extra virgin olive oil",
+        "½ cup raisins",
+        "3 Tbsp marmalade",
+        "½ Tbsp tomato paste",
+        "2 Tbsp spicy sweet blacksauce",
+        "400ml beer",
+        "6 Quality Mark lamb shanks",
+        "600ml Campbell’s Real Beef Stock, salt reduced",
+        "120g baby spinach"
+      ],
+      "instructions": [
+        "Heat the oil in a deep pan over medium heat. Sear the lamb shanks all over until golden brown."
+      ],
+      "nutrition": {},
+      "source_url": "https://recipes.co.nz/recipes/guinness-lamb-shanks/",
+      "tags": ["lamb", "slow cooker", "comfort food", "beer"]
+    },
+    {
+      "title": "Tex-Mex meatball soup",
+      "subtitle": "A quick hearty dinner that the family will love",
+      "image_url": "https://recipes-nz.b-cdn.net/3df1a0b3df035147a5f87c04619d625fb99a82e2-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4",
+      "prep_time": "15 mins",
+      "cook_time": "25 mins",
+      "description": "This Tex-Mex meatball soup ticks all the boxes with perfectly seasoned beef meatballs in a spiced broth.",
+      "ingredients": [
+        "1 pack Angel Bay Gourmet Beef Meatballs",
+        "1 Tbsp extra virgin olive oil",
+        "1 onion",
+        "1 red capsicum",
+        "1 carrot",
+        "2 sticks celery",
+        "3 garlic cloves",
+        "2 tsp dried oregano",
+        "2 tsp ground cumin",
+        "2 tsp ground coriander",
+        "2 tsp chilli flakes",
+        "1½ cups corn, frozen",
+        "400g canned chopped tomatoes",
+        "4 cups Campbell’s Real Chicken Stock, salt reduced",
+        "1 bay leaf",
+        "4 small tortillas",
+        "1 avocado",
+        "handful fresh coriander",
+        "juice of 1 lime"
+      ],
+      "instructions": [
+        "Preheat your oven or air fryer to 200 degrees."
+      ],
+      "nutrition": {
+        "calories": "Energy3023kJ (723 kcal)",
+        "proteinContent": "Protein32.4g",
+        "saturatedFatContent": "Saturated Fat14.3g",
+        "sodiumContent": "Sodium1300mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/tex-mex-meatball-soup/",
+      "tags": ["beef", "soup", "Tex-Mex", "family-friendly"]
+    },
+    {
+      "title": "Slow-braised lamb shoulder with feta, lemon and herbs",
+      "subtitle": "Melt in your mouth lamb",
+      "image_url": "https://recipes-nz.b-cdn.net/743b71579296cf0d636f57576690d6d58e8454b9-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "6 - 8",
+      "prep_time": "20 mins",
+      "cook_time": "4 hrs",
+      "description": "Simple and easy, this lamb shoulder recipe lets the oven do all the hard work. The result? Beyond delicious.",
+      "ingredients": [
+        "2kg Quality Mark lamb shoulder",
+        "12 garlic cloves",
+        "8 sprigs fresh rosemary",
+        "1 large onion",
+        "2 bay leaves",
+        "1½ tsp dried oregano",
+        "1 cup chicken stock",
+        "½ cup white wine",
+        "¼ cup lemon juice",
+        "3 Tbsp olive oil",
+        "2 Tbsp honey",
+        "2 tsp paprika",
+        "2 tsp salt",
+        "1 tsp black pepper",
+        "75g feta",
+        "¼ cup chopped fresh parsley"
+      ],
+      "instructions": [
+        "Preheat oven to 220°C fan-forced/240°C standard."
+      ],
+      "nutrition": {
+        "calories": "Energy1431kJ (342 kcal)",
+        "proteinContent": "Protein28.4g",
+        "saturatedFatContent": "Saturated Fat6.2g",
+        "sodiumContent": "Sodium769mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/slow-braised-lamb-shoulder-with-feta-lemon-and-herbs/",
+      "tags": ["lamb", "braised", "slow cooker", "comfort food"]
+    },
+    {
+      "title": "Osso Buco style beef short ribs with gremolata",
+      "subtitle": "Easy slow cooked short ribs",
+      "image_url": "https://recipes-nz.b-cdn.net/9083d8ab966ac3be59b31c512c7fb3ed5b98c5c9-4032x3024.jpg?auto=format&fit=max&q=75&w=4032",
+      "servings": "3 - 4",
+      "prep_time": "20 mins",
+      "cook_time": "3 hrs",
+      "description": "Beef short ribs done osso buco style – perfect for a family feast or special occasion.",
+      "ingredients": [
+        "1.5kgs Quality Mark beef short ribs",
+        "2 Tbsp oil",
+        "1 onion",
+        "2 carrots",
+        "2 celery stalks",
+        "4 garlic cloves",
+        "2 Tbsp tomato paste",
+        "250ml white wine",
+        "1 tsp brown sugar",
+        "400g chopped tomatoes",
+        "500ml beef stock",
+        "1 bay leaf",
+        "chopped fresh rosemary",
+        "fresh thyme leaves",
+        "1 small bunch parsley",
+        "grated zest of 1 lemon",
+        "garlic clove"
+      ],
+      "instructions": [
+        "Preheat oven to 160°C. Cut short ribs into portions and salt generously."
+      ],
+      "nutrition": {
+        "calories": "Energy1695kJ (405 kcal)",
+        "proteinContent": "Protein31.7g",
+        "saturatedFatContent": "Saturated Fat5.0g",
+        "sodiumContent": "Sodium467mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/osso-buco-style-beef-short-ribs-with-gremolata/",
+      "tags": ["beef", "slow-cooked", "osso buco", "festive"]
+    },
+    {
+      "title": "Beef and bean burritos",
+      "subtitle": "A quick family dinner made easy with the air fryer",
+      "image_url": "https://recipes-nz.b-cdn.net/3874c9d4ec73458c5619386e358dac2ae601aa6c-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4",
+      "prep_time": "10 mins",
+      "cook_time": "15 mins",
+      "description": "Air fryer beef and bean burritos deliver a crispy exterior and flavourful filling with less oil.",
+      "ingredients": [
+        "500g Quality Mark beef mince",
+        "1 onion",
+        "2 garlic cloves",
+        "1 tsp paprika",
+        "1 tsp dried oregano",
+        "1 tsp ground cumin",
+        "1 Tbsp spicy sweet blacksauce",
+        "400g canned tomatoes",
+        "400g beans in chilli sauce",
+        "1 cup white rice",
+        "4 tortillas",
+        "½ cup grated tasty cheddar cheese",
+        "1 avocado",
+        "1 red capsicum",
+        "handful fresh coriander",
+        "seasonal vegetables"
+      ],
+      "instructions": [
+        "In a large frying pan, heat a little oil and then add your mince, breaking it up as it cooks."
+      ],
+      "nutrition": {
+        "calories": "Energy2768kJ (661 kcal)",
+        "proteinContent": "Protein44.3g",
+        "saturatedFatContent": "Saturated Fat8.4g",
+        "sodiumContent": "Sodium742mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/beef-and-bean-burritos/",
+      "tags": ["beef", "air fryer", "Mexican", "quick"]
+    },
+    {
+      "title": "Spicy BBQ glazed air fryer lamb chops",
+      "subtitle": "How to get the perfect air fryer shoulder chops",
+      "image_url": "https://recipes-nz.b-cdn.net/e87e0280f42d8077539a6834a49f045a4ca4a7de-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "3 - 4",
+      "prep_time": "10 mins",
+      "cook_time": "30 mins",
+      "description": "Air fryer glazed shoulder chops coated in a smoky spice blend and rich BBQ glaze.",
+      "ingredients": [
+        "4 Quality Mark lean lamb shoulder chops",
+        "1 Tbsp smoked paprika",
+        "½ tsp cayenne pepper",
+        "1 tsp garlic powder",
+        "salt and pepper",
+        "1 Tbsp olive oil",
+        "½ cup BBQ sauce",
+        "lemon zest",
+        "fresh mint",
+        "12-15 baby potatoes",
+        "olive oil",
+        "salt and pepper",
+        "2 baby gem lettuces",
+        "2 jalapeño",
+        "2 Tbsp sour cream",
+        "2 Tbsp mayonnaise",
+        "2 Tbsp lime juice"
+      ],
+      "instructions": [
+        "Using kitchen scissors or a sharp knife, make incisions through the fat side of the chop."
+      ],
+      "nutrition": {
+        "calories": "Energy1705kJ (407 kcal)",
+        "proteinContent": "Protein17.3g",
+        "saturatedFatContent": "Saturated Fat5.2g",
+        "sodiumContent": "Sodium497mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/spicy-bbq-glazed-air-fryer-lamb-chops/",
+      "tags": ["lamb", "air fryer", "BBQ", "quick"]
+    },
+    {
+      "title": "Lasagna soup",
+      "subtitle": "All the flavours of lasgana but with none of the hassle",
+      "image_url": "https://recipes-nz.b-cdn.net/5602b5c192c5284cda78dbd8ad984e9e0e28ae60-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4",
+      "prep_time": "20 mins",
+      "cook_time": "45 mins",
+      "description": "All the comforting flavours of lasagna in a warm, spoonable form.",
+      "ingredients": [
+        "1 Tbsp olive oil",
+        "500g Quality Mark beef mince",
+        "1 onion",
+        "2 garlic cloves",
+        "2 carrots",
+        "2 celery stalks",
+        "1 red capsicum",
+        "1 courgette",
+        "1 canned chopped tomatoes",
+        "500ml reduced-salt beef stock",
+        "1 Tbsp tomato puree",
+        "1 tsp dried oregano",
+        "1 tsp dried thyme",
+        "1 tsp dried basil",
+        "100g lasagna sheets",
+        "handful baby spinach leaves",
+        "100g bocconcini",
+        "basil leaves"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pot over medium heat. Add the beef mince and cook until browned."
+      ],
+      "nutrition": {
+        "calories": "Energy1733kJ (414 kcal)",
+        "proteinContent": "Protein38.6g",
+        "saturatedFatContent": "Saturated Fat6.6g",
+        "sodiumContent": "Sodium533mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/lasagna-soup/",
+      "tags": ["beef", "soup", "Italian", "comfort food"]
+    },
+    {
+      "title": "Beef shin laksa",
+      "subtitle": "A slow cooked spiced soup that warms your soul",
+      "image_url": "https://recipes-nz.b-cdn.net/6da1693472dc402c01e2499e4723275742b78625-6000x4000.jpg?auto=format&fit=max&q=75&w=6000",
+      "servings": "4 - 6",
+      "prep_time": "15 mins",
+      "cook_time": "8 hrs 20 mins",
+      "description": "Fragrant, spicy noodle soup slow cooked with beef shin slices on the bone.",
+      "ingredients": [
+        "1 kg Quality Mark beef shin",
+        "2 Tbsp oil",
+        "1 onion, brown",
+        "¼ cup Thai basil leaf",
+        "¼ cup Laksa paste",
+        "1 Tbsp cornflour",
+        "400ml coconut milk",
+        "1½ cups Campbell’s Real Beef Stock, salt reduced",
+        "1½ cup water",
+        "2 Agria potatoes",
+        "250g snow peas",
+        "1 red capsicum",
+        "270g udon noodles",
+        "1 cup mung bean sprouts",
+        "2 Tbsp peanuts",
+        "lime",
+        "fresh coriander leaves",
+        "chilli"
+      ],
+      "instructions": [
+        "Heat 1 Tbsp oil in a fry pan to high heat, add half the beef and cook until browned."
+      ],
+      "nutrition": {
+        "calories": "Energy3061kJ (732 kcal)",
+        "proteinContent": "Protein41.0g",
+        "saturatedFatContent": "Saturated Fat20.2g",
+        "sodiumContent": "Sodium637mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/beef-shin-laksa/",
+      "tags": ["beef", "soup", "slow cooker", "spicy"]
+    },
+    {
+      "title": "Tomahawk steak with tamarind glaze",
+      "subtitle": "The best tomahawk steak",
+      "image_url": "https://recipes-nz.b-cdn.net/e87e0280f42d8077539a6834a49f045a4ca4a7de-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "5 mins",
+      "cook_time": "1 hr 50 mins",
+      "description": "Reverse-seared tomahawk steak finished with a tangy tamarind glaze.",
+      "ingredients": [
+        "1 beef tomahawk steak",
+        "2 tsp extra virgin olive oil",
+        "salt and pepper",
+        "3 Tbsp Jenny's Kitchen Tamarind Chutney",
+        "2 garlic cloves",
+        "1 lemon",
+        "1 Tbsp honey"
+      ],
+      "instructions": [
+        "Preheat your oven to 130 degrees."
+      ],
+      "nutrition": {
+        "calories": "Energy1060kJ (253 kcal)",
+        "proteinContent": "Protein26.6g",
+        "saturatedFatContent": "Saturated Fat5.2g",
+        "sodiumContent": "Sodium201mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/tomahawk-steak-with-tamarind-glaze/",
+      "tags": ["beef", "steak", "special occasion", "reverse sear"]
+    },
+    {
+      "title": "Lamb and pumpkin croquettes",
+      "subtitle": "Transform leftovers into tasty little morsels",
+      "image_url": "https://recipes-nz.b-cdn.net/2c158c4116262b2cdbbbb51de5f3486239a21471-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "10 - 12 as a snack",
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "description": "Take your leftover lamb and roast vegetables and transform them into these tasty little croquettes.",
+      "ingredients": [
+        "250g Quality Mark pulled lamb",
+        "500g leftover roast vegetables",
+        "25g grated Parmesan cheese",
+        "2 Tbsp finely chopped chives",
+        "seasoned flour",
+        "2 eggs",
+        "150g panko breadcrumbs",
+        "oil",
+        "2 Tbsp capers",
+        "½ preserved lemon",
+        "handful chopped fresh parsley",
+        "½ cup Greek style yoghurt"
+      ],
+      "instructions": [
+        "In a large bowl, mash the roast vegetables until smooth."
+      ],
+      "nutrition": {
+        "calories": "Energy706kJ (169 kcal)",
+        "proteinContent": "Protein10.1g",
+        "saturatedFatContent": "Saturated Fat2.3g",
+        "sodiumContent": "Sodium245mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/lamb-and-pumpkin-croquettes/",
+      "tags": ["lamb", "snack", "leftovers", "appetizer"]
+    },
+    {
+      "title": "Roast kūmara and cauliflower quinoa salad",
+      "subtitle": "Vibrant and colourful salad",
+      "image_url": "https://recipes-nz.b-cdn.net/3406ea65e67d61010848e015f00fb847645e614a-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "6 - 8",
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "description": "This hearty salad features roasted orange kūmara and cauliflower florets, combined with fluffy quinoa and sweet red onion.",
+      "ingredients": [
+        "4 kūmara",
+        "1 cauliflower",
+        "1 red onion",
+        "2 cups quinoa",
+        "1 garlic clove",
+        "parsley",
+        "100g almonds",
+        "2 Tbsp olive oil",
+        "4 Tbsp olive oil",
+        "juice and grated zest of 1 orange",
+        "1 tsp grainy wholegrain mustard",
+        "1 Tbsp runny honey",
+        "cracked pepper"
+      ],
+      "instructions": [
+        "Mix dressing ingredients in a jug."
+      ],
+      "nutrition": {
+        "calories": "Energy1512kJ (361 kcal)",
+        "proteinContent": "Protein6.8g",
+        "saturatedFatContent": "Saturated Fat3.0g",
+        "sodiumContent": "Sodium23.8mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/roast-kumara-and-cauliflower-quinoa-salad-with-orange-mustard-dressing/",
+      "tags": ["vegetarian", "salad", "healthy", "meal prep"]
+    },
+    {
+      "title": "Asparagus roast potato and broccoli salad",
+      "subtitle": "The best barbecue side dish",
+      "image_url": "https://recipes-nz.b-cdn.net/6049cd2bc1622f2d3a171dfc5a3ec8b838c7626c-1920x1080.png?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - as a side",
+      "prep_time": "15 mins",
+      "cook_time": "45 mins",
+      "description": "When asparagus is in season, this is the best barbecue salad. It's green, hearty and the yoghurt dressing is easily made in advance.",
+      "ingredients": [
+        "1 bunch asparagus spears",
+        "600g Agria potatoes",
+        "1 head broccoli",
+        "2 garlic cloves",
+        "spring onion",
+        "2 tsp garlic powder",
+        "2 Tbsp onion powder",
+        "¼ cup fresh parsley",
+        "juice and grated zest of 1 lemon",
+        "2 Tbsp Greek style yoghurt",
+        "2 Tbsp Dijon mustard",
+        "2 Tbsp maple syrup"
+      ],
+      "instructions": [
+        "Preheat oven to 180°C."
+      ],
+      "nutrition": {
+        "calories": "Energy871kJ (208 kcal)",
+        "proteinContent": "Protein10.1g",
+        "saturatedFatContent": "Saturated Fat0.7g",
+        "sodiumContent": "Sodium260mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/asparagus-roast-potato-and-broccoli-salad/",
+      "tags": ["vegetarian", "salad", "barbecue side", "make-ahead"]
+    },
+    {
+      "title": "Beef rigatoni with loaded veg sauce",
+      "subtitle": "Easy pasta for the whole family",
+      "image_url": "https://recipes-nz.b-cdn.net/43ec6d4a6f276391957279400941768245deb795-1920x1280.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4 - 6",
+      "prep_time": "15 mins",
+      "cook_time": "45 mins",
+      "description": "This beef rigatoni with loaded veg sauce is a delicious way to sneak extra goodness into a family favourite!",
+      "ingredients": [
+        "500g Quality Mark beef mince",
+        "3 tsp olive oil",
+        "½ cauliflower",
+        "2 red capsicums",
+        "2 red onions",
+        "2 tsp balsamic vinegar",
+        "2 tsp dried Italian herbs",
+        "1 tsp brown sugar",
+        "garlic clove",
+        "400g chopped tomatoes",
+        "1 cube vegetable stock",
+        "1½ cups boiling water",
+        "500g rigatoni pasta",
+        "grated Parmesan cheese",
+        "fresh parsley"
+      ],
+      "instructions": [
+        "Roast the vegetables: Preheat the oven to 180°C fan bake."
+      ],
+      "nutrition": {
+        "calories": "Energy1845kJ (441 kcal)",
+        "proteinContent": "Protein37.0g",
+        "saturatedFatContent": "Saturated Fat3.1g",
+        "sodiumContent": "Sodium307mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/beef-rigatoni-with-loaded-veg-sauce/",
+      "tags": ["beef", "pasta", "family-friendly", "mixed veg"]
+    },
+    {
+      "title": "Mince and avo on toast with crispy chilli oil",
+      "subtitle": "A Kiwi classic brunch recipe",
+      "image_url": "https://recipes-nz.b-cdn.net/fc7340ca62f87a16deea5dce70b4a200988a6fda-1920x1080.jpg?auto=format&fit=max&q=75&w=1920",
+      "servings": "4",
+      "prep_time": "10 mins",
+      "cook_time": "20 mins",
+      "description": "This version of mince on toast brings together juicy beef mince paired with creamy avocado and crispy chilli oil.",
+      "ingredients": [
+        "500g Quality Mark beef mince",
+        "½ onion",
+        "2 garlic cloves",
+        "2 Tbsp tomato paste",
+        "2 Tbsp soy sauce",
+        "1 tsp smoked paprika",
+        "4 slices sourdough",
+        "avocado",
+        "fresh coriander",
+        "4 Tbsp crispy chilli oil"
+      ],
+      "instructions": [
+        "Heat a splash of oil in a pan over medium heat. Add the chopped onion and garlic, and sauté until soft."
+      ],
+      "nutrition": {
+        "calories": "Energy2336kJ (558 kcal)",
+        "proteinContent": "Protein32.6g",
+        "saturatedFatContent": "Saturated Fat6.8g",
+        "sodiumContent": "Sodium977mg"
+      },
+      "source_url": "https://recipes.co.nz/recipes/mince-and-avo-on-toast-with-crispy-chilli-oil/",
+      "tags": ["beef", "brunch", "quick", "Kiwi classic"]
+    }
+  ]
+}

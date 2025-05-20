@@ -1,0 +1,60 @@
+/* src/pages/ShoppingList.css */
+
+.shopping-list-page {
+  width: 90%;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+@media (max-width: 600px) {
+  .shopping-list-page {
+    width: 100%;
+    margin: 1rem 0;
+    padding: 0.5rem 1rem;
+  }
+}
+
+.shopping-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.toggle-group button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #e0e0e0;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+}
+.toggle-group button.active {
+  background: #2e7d32;
+  color: #fff;
+}
+.aisle-list {
+  list-style: none;
+  padding: 0;
+}
+.aisle-list li {
+  margin: 0.5rem 0;
+}
+.shopping-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+.edit-plan-btn,
+.print-btn {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.edit-plan-btn {
+  background: #e0e0e0;
+}
+.print-btn {
+  background: #4caf50;
+  color: #fff;
+}

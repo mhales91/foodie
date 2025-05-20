@@ -1,0 +1,59 @@
+/* src/pages/Preferences.css */
+
+.preferences-page {
+  width: 90%;
+  max-width: 360px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+}
+
+.preferences-page h1 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.preferences-page form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.preferences-page label {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+}
+
+.preferences-page input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.preferences-page button {
+  padding: 0.75rem;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.preferences-page button:hover {
+  background: #43a047;
+}
+
+/* Mobile override */
+@media (max-width: 600px) {
+  .preferences-page {
+    width: 100% !important;
+    margin: 1rem 0 !important;
+    padding: 1rem !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    min-height: 100vh;
+  }
+}

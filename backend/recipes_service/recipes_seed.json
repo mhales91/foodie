@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic",
+      "olive oil",
+      "basil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "1. Cook spaghetti according to package instructions. 2. In a pan, heat olive oil and sauté chopped onion and minced garlic until translucent. 3. Add ground beef and cook until browned. 4. Stir in tomato sauce and chopped basil; simmer for 15 minutes. 5. Season with salt and pepper. 6. Serve sauce over spaghetti.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IXHC6_ySQC1Pm5XOaIOJCPrCcYr64MG2vw&s",
+    "tags": ["Meat", "45 mins"]
+  },
+  {
+    "name": "Chicken Stir-Fry",
+    "ingredients": [
+      "chicken breast",
+      "soy sauce",
+      "broccoli",
+      "bell pepper",
+      "carrot",
+      "garlic",
+      "ginger",
+      "sesame oil",
+      "rice"
+    ],
+    "instructions": "1. Cook rice according to package instructions. 2. Slice chicken breast thinly and marinate in soy sauce, minced garlic, and grated ginger for 10 minutes. 3. Heat sesame oil in a wok or large pan over high heat. 4. Stir-fry chicken until cooked through. 5. Add broccoli, sliced bell pepper, and carrot; continue stir-frying for 5 minutes. 6. Serve over rice.",
+    "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/05/Chicken-Stir-Fry-main.jpg",
+    "tags": ["30 mins", "High Protein"]
+  },
+  {
+    "name": "Veggie Omelette",
+    "ingredients": [
+      "eggs",
+      "bell pepper",
+      "spinach",
+      "mushrooms",
+      "cheddar cheese",
+      "salt",
+      "pepper",
+      "butter"
+    ],
+    "instructions": "1. Whisk eggs with salt and pepper. 2. Heat butter in a non-stick pan over medium heat. 3. Sauté diced bell pepper, sliced mushrooms, and spinach until softened. 4. Pour whisked eggs over veggies and cook until set. 5. Sprinkle shredded cheddar cheese, fold omelette, and serve.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgbNtTlHWGy0627ywc4Q7oM_dJEKgs__z0Q&s",
+    "tags": ["Vegetarian", "10 mins"]
+  },
+  {
+    "name": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "tortillas",
+      "lettuce",
+      "tomato",
+      "cheddar cheese",
+      "sour cream",
+      "salsa"
+    ],
+    "instructions": "1. Brown ground beef in a skillet over medium heat; drain excess fat. 2. Add taco seasoning and water according to package instructions; simmer for 5 minutes. 3. Warm tortillas in a pan or microwave. 4. Fill tortillas with beef, shredded lettuce, diced tomato, cheddar cheese, sour cream, and salsa.",
+    "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/Next-level-tacos-e163429.jpg",
+    "tags": ["Meat", "20 mins"]
+  },
+  {
+    "name": "Greek Salad",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "red onion",
+      "kalamata olives",
+      "feta cheese",
+      "olive oil",
+      "oregano",
+      "lemon juice",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "1. Chop cucumber, tomato, and red onion; combine in a bowl. 2. Add kalamata olives and crumbled feta cheese. 3. Dress with olive oil, lemon juice, dried oregano, salt, and pepper; toss gently and serve.",
+    "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/08/Greek-Salad-6-1.jpg",
+    "tags": ["Vegetarian", "15 mins", "Healthy"]
+  },
+  {
+    "name": "Lentil & Vegetable Curry",
+    "ingredients": [
+      "red lentils",
+      "carrot",
+      "potato",
+      "onion",
+      "garlic",
+      "curry powder",
+      "coconut milk",
+      "vegetable broth",
+      "cilantro",
+      "salt"
+    ],
+    "instructions": "1. Sauté chopped onion and minced garlic in oil until soft. 2. Add curry powder and cook for 1 minute. 3. Stir in red lentils, diced carrot, and diced potato; pour in vegetable broth. 4. Bring to a boil, reduce heat, and simmer for 20 minutes. 5. Stir in coconut milk and heat through. 6. Season with salt and garnish with chopped cilantro.",
+    "image_url": "https://img.taste.com.au/UKyjb4bG/taste/2016/11/vegetable-and-lentil-curry-81608-1.jpeg",
+    "tags": ["Vegan", "30 mins"]
+  },
+  {
+    "name": "Salmon with Roasted Veggies",
+    "ingredients": [
+      "salmon fillet",
+      "zucchini",
+      "bell pepper",
+      "cherry tomatoes",
+      "olive oil",
+      "lemon",
+      "garlic",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "1. Preheat oven to 200°C (400°F). 2. Toss sliced zucchini, bell pepper, and cherry tomatoes with olive oil, minced garlic, salt, and pepper; spread on a baking sheet and roast for 20 minutes. 3. Season salmon fillets with salt, pepper, and a squeeze of lemon; place on a separate baking sheet and bake for 12–15 minutes. 4. Serve salmon alongside roasted veggies.",
+    "image_url": "https://images.ctfassets.net/u41cm62nxtp7/hSsPUNE5XLmpjsukfwF0T/c0136329f2aff97cf4fe0b587d18da81/Mediterranean-salmon-with-roasted-vegetables.jpg?fm=webp",
+    "tags": ["Pescatarian", "30 mins", "Healthy"]
+  },
+  {
+    "name": "Banana Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "banana",
+      "baking powder",
+      "salt",
+      "butter",
+      "maple syrup"
+    ],
+    "instructions": "1. Mash banana in a bowl. 2. Whisk together flour, baking powder, salt, egg, milk, and mashed banana until smooth. 3. Heat butter in a pan over medium heat; pour batter to form pancakes. 4. Cook until bubbles form, flip, and cook until golden. 5. Serve with maple syrup.",
+    "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2022/02/banana-pancakes-recipe.jpg",
+    "tags": ["Vegetarian", "Breakfast", "20 mins"]
+  },
+  {
+    "name": "Chickpea Stew",
+    "ingredients": [
+      "canned chickpeas",
+      "onion",
+      "garlic",
+      "tomato paste",
+      "spinach",
+      "cumin",
+      "paprika",
+      "vegetable broth",
+      "olive oil",
+      "salt",
+      "pepper"
+    ],
+    "instructions": "1. Heat olive oil in a pot over medium heat; sauté chopped onion and minced garlic until fragrant. 2. Add cumin and paprika; cook for 1 minute. 3. Stir in chickpeas, tomato paste, and vegetable broth; simmer for 10 minutes. 4. Add spinach and cook until wilted. 5. Season with salt and pepper.",
+    "image_url": "https://rainbowplantlife.com/wp-content/uploads/2021/02/braised-indian-chickpea-stew-in-bowl-with-naan-and-yogurt-1-of-1-scaled.jpg",
+    "tags": ["Vegan", "40 mins", "Healthy"]
+  },
+  {
+    "name": "Shrimp Scampi",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "olive oil",
+      "lemon juice",
+      "white wine",
+      "parsley",
+      "salt",
+      "pepper",
+      "pasta"
+    ],
+    "instructions": "1. In a pan over medium heat, melt butter with olive oil. 2. Add minced garlic; cook until fragrant. 3. Add shrimp; cook until pink. 4. Stir in lemon juice, white wine (optional), salt, and pepper; simmer for 2 minutes. 5. Garnish with chopped parsley. 6. Serve alone or over pasta.",
+    "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/07/16/0/FNM_090120-Classic-Shrimp-Scampi_s4x3.jpg.rend.hgtvcom.1280.1280.suffix/1594915956100.webp",
+    "tags": ["Pescatarian", "25 mins", "Quick"]
+  }
+]

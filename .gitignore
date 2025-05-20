@@ -1,0 +1,16 @@
+﻿# Python / FastAPI
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.env
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+web-frontend/node_modules/
+web-frontend/build/
+web-frontend/.env
+
+# Misc
+.DS_Store
