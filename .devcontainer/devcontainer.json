@@ -2,7 +2,7 @@
   "name": "Foodie Dev",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "backend",
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspaces/foodie",
   "forwardPorts": [5432, 8002, 3000],
   "extensions": [
     "ms-python.python",
