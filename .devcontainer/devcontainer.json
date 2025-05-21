@@ -1,0 +1,11 @@
+{
+  "name": "Foodie Dev",
+  "dockerComposeFile": ["docker-compose.yml"],
+  "service": "backend",
+  "workspaceFolder": "/workspace",
+  "forwardPorts": [5432, 8002, 3000],
+  "extensions": [
+    "ms-python.python",
+    "esbenp.prettier-vscode"
+  ]
+}
