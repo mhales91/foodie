@@ -14,6 +14,7 @@ from sqlalchemy import (
     Text,
     ARRAY,
     text,
+    func,
 )
 from sqlalchemy.dialects.postgresql import UUID as PGUUID
 from dotenv import load_dotenv
@@ -68,7 +69,13 @@ app = FastAPI(title="Recipes Service")
 def read_recipes(skip: int = 0, limit: int = 100):
     try:
         with engine.connect() as conn:
-            stmt   = recipes_table.select().offset(skip).limit(limit)
+            stmt = (
+                recipes_table
+                .select()
+                .order_by(func.random())
+                .offset(skip)
+                .limit(limit)
+            )
             result = conn.execute(stmt)
             rows   = result.mappings().all()      # <-- returns list[dict]
             return [Recipe(**row) for row in rows]
